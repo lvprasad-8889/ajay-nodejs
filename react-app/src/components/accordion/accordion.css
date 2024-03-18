@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.accordion-header {
+  border: solid;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.accordion-arrow {
+  rotate: -180deg;
+  transition: 0.5s;
+}
+
+.normal {
+  transition: 0.5s;
+}

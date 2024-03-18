@@ -1,0 +1,21 @@
+.home {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 10px;
+}
+
+.left > button {
+    width: 100%;
+    cursor: pointer;
+}
+
+.right {
+    min-width: 60%;
+}

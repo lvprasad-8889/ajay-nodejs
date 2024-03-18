@@ -1,0 +1,13 @@
+form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.block {
+    display: block !important;
+}
+
+small {
+    color: red;
+}

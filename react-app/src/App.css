@@ -1,0 +1,13 @@
+.card {
+    width: 75% !important;
+}
+
+.container {
+    height: 100vh;
+}
+
+.container img {
+    width: 100%;
+    min-height: fit-content;
+    object-fit: fill;
+}

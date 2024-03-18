@@ -1,0 +1,17 @@
+.todolist {
+    display: block;
+    margin: auto;
+    width: 250px;
+    border: solid 5px aqua;
+    padding: 20px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.validation {
+    color: red
+}

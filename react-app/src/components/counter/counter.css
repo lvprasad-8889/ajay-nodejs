@@ -1,0 +1,16 @@
+.line {
+    width: 90%;
+    min-width: fit-content;
+    height: 3px;
+    border-radius: 5px;
+    background-color: black;
+    animation-name: effect;
+    animation-duration: 0.5s;
+}
+
+
+
+@keyframes effect {
+    from {width: 0%;}
+    to {width: 90%;}
+  }
